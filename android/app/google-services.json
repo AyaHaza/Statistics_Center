@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167104993030",
+    "project_id": "management-notifications-566b9",
+    "storage_bucket": "management-notifications-566b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167104993030:android:73bfb2e19075d1085ff087",
+        "android_client_info": {
+          "package_name": "com.example.management_of_statistics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_hWqJMU3OfilElNthFuMNAzSnb3C7l4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
